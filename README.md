@@ -12,6 +12,8 @@
 ```bash
 docker-compose build && docker-compose up -d
 ```
+- frontend: http://localhost:3001/
+- backend: http://localhost:3000/api/
 
 ## Компоненты приложения
 ### Frontend
